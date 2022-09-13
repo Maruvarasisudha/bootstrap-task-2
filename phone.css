@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bx{
+ color:  #72449c;
+}
+.circle{
+  background-image: radial-gradient(circle, rgb(115, 8, 148),rgb(36, 3, 46),rgb(223, 18, 189)) ;
+  border-radius: 500px;
+  height: 300px;
+  width: 300px;
+}
+
+.grad1 
+{ border: 2px(rgb(124, 16, 212),rgb(122, 11, 187));
+  background:#8300fb;
+         height:250px ;
+         margin-top:10px ;
+        
+}      
+
+.fm{ font-family:serif;
+    font-size: 23px; ;}
+              
+.fm1{
+      font-family:'Franklin Gothic Medium',  Arial, sans-serif; 
+      font-size:35px;}
+  .img{
+        height: 600px;
+        position: relative;
+      }
+.text-start{
+        position: absolute;
+        margin-top: -420px;
+      }
+    .bod{ border: 2px;
+      width:100%;
+      height:auto;
+      background-color: rgb(236, 239, 241);
+      padding-top: 5px;
+      margin-bottom: 0px;
+
+    }
+   
+   
+    
+  
